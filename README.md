@@ -42,5 +42,21 @@ position always blinks (irrespective of the fact that the segment is on or off).
 ## Video
 https://youtu.be/bwCRDn86FSA
 
+## Homework 4
+
+## Requirement
+This assignment involves implementing a stopwatch timer using the 4 digit 7 segment display and 3 buttons that counts in 10ths of a second and has a save lap functionality (similar to most basic stopwatch functions on most phones). The starting value of the 4 digit 7 segment display should be ”000.0”.
+### Buttons
+  1. Start / pause.
+  2. Reset (if in pause mode). Reset saved laps (if in lap) viewing mode).
+  3. Save lap (if in counting mode), cycle through last saved laps (up to 4 laps).
+
+
+## Setup photo
+![Image Alt Text](Images/h4.jpg)
+
+## Video
+https://youtu.be/XyXWkvGYfag
+
 
 
