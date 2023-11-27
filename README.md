@@ -58,5 +58,13 @@ This assignment involves implementing a stopwatch timer using the 4 digit 7 segm
 ## Video
 https://youtu.be/XyXWkvGYfag
 
+## Homework 6
 
+## Requirement
+This assignment involves developing a small game on the 8x8 matrix.  The game have 3 types of elements: player (blinks slowly), bombs (blinks fast), wall (doesn’t blink). For this assignment i choosed to implement bomberman style to destroy walls
 
+## Setup photo
+![Image Alt Text](Images/h6.jpg)
+
+## Video
+https://youtu.be/vYYiYmJx__o
