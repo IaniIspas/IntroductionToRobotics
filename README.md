@@ -68,3 +68,20 @@ This assignment involves developing a small game on the 8x8 matrix.  The game ha
 
 ## Video
 https://youtu.be/vYYiYmJx__o
+
+## Homework 7
+This assignment involves adding a menu with functionalities to the previous game i've implemented. Now, the purpose of the game is defusing a bomb that is placed on the other side of the map. 
+
+### Menu structure
+  1. Start game, starts the initial level of
+  2. Settings where i can  adjust LCD brightness control and Matrix brightness control
+  3. About which include name of the game, author and github user 
+
+
+
+
+## Setup photo
+![Image Alt Text](Images/h7.jpg)
+
+## Video
+https://youtu.be/hSi0NiX3dZ0
