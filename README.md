@@ -6,7 +6,7 @@ Welcome to my repository dedicated to showcasing the projects and assignments I'
 <details>
 <summary>Get details for homework 1</summary>
 <br>
-## Requirement
+<h2>Requirement</h2>
 
 This assignment focuses on controlling each channel (Red, Green, and Blue) of an RGB LED using individual potentiometers. This control must leverage digital electronics. Specifically, you need to read the potentiometer’s value with Arduino and then write a mapped value to the LED pins.
 
@@ -21,8 +21,8 @@ This assignment focuses on controlling each channel (Red, Green, and Blue) of an
 <details>
 <summary>Get details for homework 2</summary>
 <br>
-## Requirement 
-
+<h2>Requirement</h2>
+  
 This assignment involves simulating a 3-floor elevator control system using LEDs and buttons with Arduino. Here are the specific requirements:
 LED Indicators: Each of the 3 LEDs should represent one of the 3 floors. The LED corresponding to the current floor should light up. Additionally, another LED should represent the elevator’s operational state. It should blink when the elevator is moving and remain static when stationary.
 Buttons: Implement 3 buttons that represent the call buttons from the 3 floors. When pressed, the elevator should simulate movement towards the floor after a short interval (2-3 seconds).
@@ -41,7 +41,7 @@ Debounce: Remember to implement debounce for the buttons to avoid unintentional 
 <details>
 <summary>Get details for homework 3</summary>
 <br>
-## Requirement
+<h2>Requirement</h2>
 This assignment involves using a  joystick to control the position of the segment and ”draw” on the display. The movement between segments should be natural, meaning they should jump from the current position only to neighbors, but without passing through ”walls”. The initial position should be on the DP. The current
 position always blinks (irrespective of the fact that the segment is on or off). Short pressing the button toggles the segment state from ON to OFF or from OFF to ON. Long pressing the button resets the entire display by turning all the segments OFF and moving the current position to the decimal point.
 
@@ -56,7 +56,7 @@ position always blinks (irrespective of the fact that the segment is on or off).
 <details>
 <summary>Get details for homework 4</summary>
 <br>
-## Requirement
+<h2>Requirement</h2>
 This assignment involves implementing a stopwatch timer using the 4 digit 7 segment display and 3 buttons that counts in 10ths of a second and has a save lap functionality (similar to most basic stopwatch functions on most phones). The starting value of the 4 digit 7 segment display should be ”000.0”.
 ### Buttons
   1. Start / pause.
@@ -75,7 +75,7 @@ This assignment involves implementing a stopwatch timer using the 4 digit 7 segm
 <details>
 <summary>Get details for homework 6</summary>
 <br>
-## Requirement
+<h2>Requirement</h2>
 This assignment involves developing a small game on the 8x8 matrix.  The game have 3 types of elements: player (blinks slowly), bombs (blinks fast), wall (doesn’t blink). For this assignment i choosed to implement bomberman style to destroy walls
 
 ## Setup photo
